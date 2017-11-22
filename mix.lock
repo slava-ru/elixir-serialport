@@ -1,0 +1,2 @@
+%{"elixir_make": {:hex, :elixir_make, "0.4.0", "992f38fabe705bb45821a728f20914c554b276838433349d4f2341f7a687cddf", [], [], "hexpm"},
+  "nerves_uart": {:git, "https://github.com/nerves-project/nerves_uart.git", "cb7541466970daa2a06536acfe7e7be52203bbe1", []}}
